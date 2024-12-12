@@ -4,6 +4,12 @@
 
 ---
 
+## **Problem Statement**
+Forward Collision Warning Development using GenAI
+
+---
+---
+
 ## 🚗 **Project Overview**
 This project focuses on enhancing automotive safety through real-time object detection and dynamic risk assessment. Using the YOLOv2 model, the system processes dashcam footage to identify objects in the vehicle’s path and dynamically evaluates their risk based on size, proximity, and location. This innovative approach addresses the critical need for adaptive and proactive risk management in modern vehicles.
 
@@ -80,14 +86,9 @@ For queries, suggestions, or collaboration opportunities:
 
 - **Name:** Harshinee
 - **Email:** harshineeanandane2004@gmail.com
-- **LinkedIn:** [[linkedin.com/in/harshinee-anandane](https://www.linkedin.com/in/harshinee-anandane-091ab524b/)]
+- **LinkedIn:** [linkedin.com/in/harshinee-anandane](https://www.linkedin.com/in/harshinee-anandane-091ab524b/)]
 - **GitHub:** [github.com/Hachu-09]((https://github.com/Hachu-09))
 
-
----
-
-## 📜 **License**
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
