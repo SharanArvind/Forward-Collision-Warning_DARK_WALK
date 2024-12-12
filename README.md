@@ -86,7 +86,7 @@ For queries, suggestions, or collaboration opportunities:
 
 - **Name:** Harshinee
 - **Email:** harshineeanandane2004@gmail.com
-- **LinkedIn:** [linkedin.com/in/harshinee-anandane](https://www.linkedin.com/in/harshinee-anandane-091ab524b/)]
+- **LinkedIn:** [linkedin.com/in/harshinee-anandane](https://www.linkedin.com/in/harshinee-anandane-091ab524b/)
 - **GitHub:** [github.com/Hachu-09]((https://github.com/Hachu-09))
 
 
